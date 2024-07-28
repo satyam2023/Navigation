@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_navigationAnimation_navigationAnimationTests : NSObject
+@end
+@implementation PodsDummy_Pods_navigationAnimation_navigationAnimationTests
+@end
